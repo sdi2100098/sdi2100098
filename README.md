@@ -55,7 +55,7 @@ A command-line tool that reads a text file, counts word frequencies, and outputs
 A terminal-based Tic Tac Toe game with a **Minimax AI** opponent:
 
 - Human vs AI, choose who goes first
-- Minimax recursive search scores: AI win +10, human win −10, tie 0
+- Minimax recursive search scores: AI win +10, human win -10, tie 0
 - Coloured terminal output for X and O
 - Clean module separation: game loop, AI engine, move placement, board rendering, winner detection
 - Sanity-check script (`scripts/sanity_check.sh`) for clean rebuild and strict warning check

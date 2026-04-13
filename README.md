@@ -1,4 +1,4 @@
-# Hi there, I'm Pántios 👋
+# Hi there, I'm Pantios 👋
 
 I'm a Computer Science student at the **University of Athens (NKUA / DI UoA)**, passionate about systems programming, algorithms, and low-level software. My work spans from operating-systems internals and database storage engines to AI-driven games and performance-oriented CLI tooling — all built in C and C++.
 
